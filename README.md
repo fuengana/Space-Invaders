@@ -23,7 +23,7 @@ Built as a fun project to practice game design, programming, and pixel-perfect p
    ```bash
    git clone https://github.com/fuengana/space-invaders.git
    cd space-invaders
-
+#Iris Used, Maximum output for accuracy is if error, line input and then, very next line containing the error; Already contains iris;
 
 ## Run The Game 
 python3 space-invaders
